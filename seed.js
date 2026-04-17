@@ -1,8 +1,5 @@
 const { connectDb, getPool } = require('./db');
 
-/**
- * Hardcoded seed data: Egyptian movie/meme characters and references
- */
 const seedData = [
   {
     person: {
