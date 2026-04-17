@@ -1,10 +1,3 @@
-/**
- * Database lab — seed.js
- * ----------------------
- * Seed file: populates the database with Egyptian movies & memes themed data.
- * Run with: node seed.js or npm run seed
- */
-
 const { connectDb, getPool } = require('./db');
 
 /**
